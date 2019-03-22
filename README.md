@@ -1,1 +1,1 @@
-# Personalizer-Cancer-Diagnosis
+# Personalized-Cancer-Diagnosis
